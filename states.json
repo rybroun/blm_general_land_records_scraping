@@ -1,0 +1,202 @@
+[
+    {
+      "id": "AL",
+      "name": "ALABAMA"
+    },
+    {
+      "id": "AK",
+      "name": "ALASKA"
+    },
+    {
+      "id": "AZ",
+      "name": "ARIZONA"
+    },
+    {
+      "id": "AR",
+      "name": "ARKANSAS"
+    },
+    {
+      "id": "CA",
+      "name": "CALIFORNIA"
+    },
+    {
+      "id": "CO",
+      "name": "COLORADO"
+    },
+    {
+      "id": "CT",
+      "name": "CONNECTICUT"
+    },
+    {
+      "id": "DE",
+      "name": "DELAWARE"
+    },
+    {
+      "id": "FL",
+      "name": "FLORIDA"
+    },
+    {
+      "id": "GA",
+      "name": "GEORGIA"
+    },
+    {
+      "id": "ID",
+      "name": "IDAHO"
+    },
+    {
+      "id": "IL",
+      "name": "ILLINOIS"
+    },
+    {
+      "id": "IN",
+      "name": "INDIANA"
+    },
+    {
+      "id": "IA",
+      "name": "IOWA"
+    },
+    {
+      "id": "KS",
+      "name": "KANSAS"
+    },
+    {
+      "id": "KY",
+      "name": "KENTUCKY"
+    },
+    {
+      "id": "LA",
+      "name": "LOUISIANA"
+    },
+    {
+      "id": "ME",
+      "name": "MAINE"
+    },
+    {
+      "id": "MD",
+      "name": "MARYLAND"
+    },
+    {
+      "id": "MA",
+      "name": "MASSACHUSETTS"
+    },
+    {
+      "id": "MI",
+      "name": "MICHIGAN"
+    },
+    {
+      "id": "MN",
+      "name": "MINNESOTA"
+    },
+    {
+      "id": "MS",
+      "name": "MISSISSIPPI"
+    },
+    {
+      "id": "MO",
+      "name": "MISSOURI"
+    },
+    {
+      "id": "MT",
+      "name": "MONTANA"
+    },
+    {
+      "id": "NE",
+      "name": "NEBRASKA"
+    },
+    {
+      "id": "NV",
+      "name": "NEVADA"
+    },
+    {
+      "id": "NH",
+      "name": "NEW HAMPSHIRE"
+    },
+    {
+      "id": "NJ",
+      "name": "NEW JERSEY"
+    },
+    {
+      "id": "NM",
+      "name": "NEW MEXICO"
+    },
+    {
+      "id": "NY",
+      "name": "NEW YORK"
+    },
+    {
+      "id": "NC",
+      "name": "NORTH CAROLINA"
+    },
+    {
+      "id": "ND",
+      "name": "NORTH DAKOTA"
+    },
+    {
+      "id": "OH",
+      "name": "OHIO"
+    },
+    {
+      "id": "OK",
+      "name": "OKLAHOMA"
+    },
+    {
+      "id": "OR",
+      "name": "OREGON"
+    },
+    {
+      "id": "PA",
+      "name": "PENNSYLVANIA"
+    },
+    {
+      "id": "RI",
+      "name": "RHODE ISLAND"
+    },
+    {
+      "id": "SC",
+      "name": "SOUTH CAROLINA"
+    },
+    {
+      "id": "SD",
+      "name": "SOUTH DAKOTA"
+    },
+    {
+      "id": "TN",
+      "name": "TENNESSEE"
+    },
+    {
+      "id": "TX",
+      "name": "TEXAS"
+    },
+    {
+      "id": "UT",
+      "name": "UTAH"
+    },
+    {
+      "id": "VT",
+      "name": "VERMONT"
+    },
+    {
+      "id": "VA",
+      "name": "VIRGINIA"
+    },
+    {
+      "id": "WA",
+      "name": "WASHINGTON"
+    },
+    {
+      "id": "DC",
+      "name": "WASHINGTON, DC"
+    },
+    {
+      "id": "WV",
+      "name": "WEST VIRGINIA"
+    },
+    {
+      "id": "WI",
+      "name": "WISCONSIN"
+    },
+    {
+      "id": "WY",
+      "name": "WYOMING"
+    }
+  ]
